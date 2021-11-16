@@ -1,0 +1,13 @@
+.options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    margin-left: 12px;
+    border: 1px;
+    width: 75px;
+    height: 35px;
+    background-color: rgb(169, 253, 249);
+}
