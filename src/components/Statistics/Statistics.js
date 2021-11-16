@@ -10,8 +10,8 @@ export default function Statistics({
     return (
         <>
       <p>Good: {good}</p>
-      <p>Neutral: {neutral}</p>
       <p>Bad: {bad}</p>
+      <p>Neutral: {neutral}</p>
       <p>Total: {total}</p>
       <p>Positive feadback: {positivePercentage}%</p>
     </>
